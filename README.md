@@ -1,4 +1,4 @@
-[![Header]![flex](https://user-images.githubusercontent.com/39271713/111144002-8867ec00-8597-11eb-8495-6823c66e68ad.jpg "Header")]
+(https://user-images.githubusercontent.com/39271713/111144002-8867ec00-8597-11eb-8495-6823c66e68ad.jpg)
 ### I am Jeremiah George 👋
 I am a back-end web developer specialising in Python and the Django framework.I love ideating and building solution based tech products.
 
